@@ -1,6 +1,6 @@
 # OSINT Python Training – Code Repository
 
-This repository contains all the Python scripts, data files, and examples used in the **OSINT (Open Source Intelligence) Python Training Course**.
+This repository contains all the Python scripts, data files, and examples used in the **OSINT (Open Source Information Analysis) Python Training Course**.
 
 ---
 
