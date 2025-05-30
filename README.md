@@ -6,26 +6,6 @@ You’ll find scraping tools, SQLite storage examples, data visualizations, and 
 
 ---
 
-## What's Included
-
-osint-python-training/
-│
-├── data/ # Cleaned and scraped CSV files
-│ ├── quotes_cleaned.csv
-│ └── threat_headlines.csv
-│
-├── scripts/ # Python scripts from each section
-│ ├── scrape_sites.py
-│ ├── create_db.py
-│ ├── query_sqlite.py
-│ └── visualize_data.py
-│
-├── requirements.txt # Python packages used in the course
-└── README.md # You’re reading it
-
-
----
-
 ## Getting Started
 
 1. **Clone the repository** to your local machine:
