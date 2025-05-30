@@ -2,8 +2,6 @@
 
 This repository contains all the Python scripts, data files, and examples used in the **OSINT (Open Source Intelligence) Python Training Course**.
 
-You’ll find scraping tools, SQLite storage examples, data visualizations, and the final project — all ready to run inside your local Visual Studio Code environment.
-
 ---
 
 ## Getting Started
@@ -21,24 +19,26 @@ You’ll find scraping tools, SQLite storage examples, data visualizations, and 
     code .
     ```
 
-Install required packages:
+3. **Install required packages:**
 
+    ```bash
     pip install -r requirements.txt
+    ```
 
+---
 
-Requirements
+## Requirements
 
-    Python 3.8+
+- Python 3.8+
+- Visual Studio Code
+- Internet connection (for scraping examples)
 
-    Visual Studio Code
+---
 
-    Internet connection (for scraping examples)
+## About This Repo
 
+This repo is designed to be your hands-on learning lab to:
 
-This repo is designed to be your hands-on learning lab:
-
-    Explore real Python workflows for OSINT
-
-    Practice scraping, storing, querying, and plotting
-
-    Use Git and VS Code like a professional analyst
+- Explore real Python workflows for OSINT
+- Practice scraping, storing, querying, and plotting
+- Use Git and VS Code like a professional analyst
